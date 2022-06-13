@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tech-blog-hugo-framework.netlify.app/categories/all/</loc>
+    <lastmod>2022-06-13T09:34:58+08:00</lastmod>
+  </url><url>
     <loc>https://tech-blog-hugo-framework.netlify.app/categories/</loc>
+    <lastmod>2022-06-13T09:34:58+08:00</lastmod>
+  </url><url>
+    <loc>https://tech-blog-hugo-framework.netlify.app/categories/category3/</loc>
+    <lastmod>2022-06-13T09:34:58+08:00</lastmod>
   </url><url>
     <loc>https://tech-blog-hugo-framework.netlify.app/</loc>
+    <lastmod>2022-06-13T09:34:58+08:00</lastmod>
+  </url><url>
+    <loc>https://tech-blog-hugo-framework.netlify.app/f/</loc>
+    <lastmod>2022-06-13T09:34:58+08:00</lastmod>
+  </url><url>
+    <loc>https://tech-blog-hugo-framework.netlify.app/tags/tag2/</loc>
+    <lastmod>2022-06-13T09:34:58+08:00</lastmod>
   </url><url>
     <loc>https://tech-blog-hugo-framework.netlify.app/tags/</loc>
+    <lastmod>2022-06-13T09:34:58+08:00</lastmod>
+  </url><url>
+    <loc>https://tech-blog-hugo-framework.netlify.app/categories/category1/</loc>
+    <lastmod>2022-06-12T14:27:52+08:00</lastmod>
+  </url><url>
+    <loc>https://tech-blog-hugo-framework.netlify.app/b/</loc>
+    <lastmod>2022-06-12T14:27:52+08:00</lastmod>
+  </url><url>
+    <loc>https://tech-blog-hugo-framework.netlify.app/tags/tag1/</loc>
+    <lastmod>2022-06-12T14:27:52+08:00</lastmod>
   </url>
 </urlset>

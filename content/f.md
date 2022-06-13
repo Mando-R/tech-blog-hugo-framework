@@ -1,7 +1,7 @@
 ---
 title: "Post - 3"
 date: 2022-06-13T09:34:58+08:00
-draft: true
+draft: false
 author: "Ryan"
 categories: ["All", "Category3"]
 tags: ["tag2"]

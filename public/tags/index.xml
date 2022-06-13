@@ -5,6 +5,7 @@
     <link>https://tech-blog-hugo-framework.netlify.app/tags/</link>
     <description>Recent content in Tags on Hugo Site - Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://tech-blog-hugo-framework.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jun 2022 09:34:58 +0800</lastBuildDate><atom:link href="https://tech-blog-hugo-framework.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
