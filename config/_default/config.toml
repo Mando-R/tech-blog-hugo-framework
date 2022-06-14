@@ -20,5 +20,7 @@ category = "categories"
 tag = "tags"
 series = "series"
 
+# Search
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+
