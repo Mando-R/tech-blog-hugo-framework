@@ -23,11 +23,6 @@
   weight = 1
   url = "https://github.com/#"
 
-[[social]]
-  name = "linkedin"
-  weight = 3
-  url = "https://www.linkedin.com/in/#"
-
 # other supported social links
 # name = "youtube"
 # url = "https://www.youtube.com/#"
