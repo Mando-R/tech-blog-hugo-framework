@@ -1,0 +1,5 @@
+# Set up [language]/language name, blog name, and wright.
+[en]
+  title = "MandoRyanLai | Tech Blog"
+  LanguageName = "English"
+  weight = 1

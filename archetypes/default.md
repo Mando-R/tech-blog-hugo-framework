@@ -5,4 +5,5 @@ draft: true
 author: "Ryan"
 categories: ["All", ]
 tags: []
+thumbnail: ""
 ---
